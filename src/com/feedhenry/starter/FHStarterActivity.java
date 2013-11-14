@@ -1,4 +1,4 @@
-package com.feedhenry.starter;
+package %id%;
 
 import com.feedhenry.sdk.FH;
 import com.feedhenry.sdk.FHActCallback;
