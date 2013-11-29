@@ -3,6 +3,6 @@
   "type": "client_native_android",
   "repoUrl": "https://github.com/feedhenry/fh-android-sdk-blank-app.git",
   "repoBranch": "refs/heads/master",
-  "icon": "icon-edit",
+  "icon": "icon-android",
   "category": "Blank Apps"
 }
