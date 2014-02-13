@@ -1,4 +1,5 @@
 {
+  "id": "blank_native_android_client",
   "name": "Blank Native Android Client",
   "type": "client_native_android",
   "repoUrl": "https://github.com/feedhenry/fh-android-sdk-blank-app.git",
