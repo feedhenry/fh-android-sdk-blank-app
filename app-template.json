@@ -2,7 +2,7 @@
   "id": "blank_native_android_client",
   "name": "Blank Native Android Client",
   "type": "client_native_android",
-  "repoUrl": "https://github.com/feedhenry/fh-android-sdk-blank-app.git",
+  "repoUrl": "git://github.com/feedhenry/fh-android-sdk-blank-app.git",
   "repoBranch": "refs/heads/6066-connection-bugfixing",
   "icon": "icon-android",
   "category": "Blank Apps"
